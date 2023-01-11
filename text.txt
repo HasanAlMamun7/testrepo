@@ -5,3 +5,4 @@ Thanks!
 this is third test
 
 logo allignment is set succesfully. 
+solved
